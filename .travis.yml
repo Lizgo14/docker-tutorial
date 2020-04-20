@@ -3,5 +3,5 @@ services:
   - docker
 
 scripts:
-  - docker build -t travisusername/node .
-  - docker images username/node
+  - docker build -t lizgo14/node .
+  - docker images lizgo14/node
